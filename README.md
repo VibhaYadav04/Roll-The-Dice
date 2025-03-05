@@ -22,3 +22,7 @@ A fun 2-player dice game where players take turns rolling a dice to reach a scor
   ![2 play](https://github.com/user-attachments/assets/cf34c675-ad82-430a-bd68-46d130b5924a)
 - Win  
 ![3 win](https://github.com/user-attachments/assets/a3c27b19-6a78-4311-a2f7-0fa1ba438fe1)
+
+## Project Demo
+https://github.com/user-attachments/assets/4177fbd8-19a8-44b4-86f0-a2f346402433
+
